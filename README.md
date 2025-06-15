@@ -141,8 +141,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 * Inspired by real-world retail analytics applications.
 
 ```
-
----
-
-Let me know if you'd like me to tailor it to your specific dataset, team members, or add Streamlit/app deployment instructions.
-```
